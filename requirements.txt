@@ -1,0 +1,3 @@
+psycopy2
+configparser
+argparser
